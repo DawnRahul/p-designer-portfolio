@@ -1,0 +1,66 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    margin: 0;
+}
+
+h5 {
+    text-align: end;
+    font-size: 1vw;
+}
+
+#main {
+    width: 100vw;
+    height: auto;
+}
+
+#hero {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color: #fff;
+}
+
+#nav {
+    color: white;
+    padding: 20px 40px;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#heading {
+    margin-top: 60px;
+}
+
+#heading h1 {
+    font-size: 9vw;    /* 1 vh = 1% of screen*/
+    line-height: 1;
+    opacity: 0.6;
+    margin-left: 30px;
+}
+
+#heading #secondh1 {
+    margin-left: 140px;
+}
+
+
+.secondh1-con {
+    width: fit-content;
+}
+
+
+
+
